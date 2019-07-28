@@ -21,7 +21,13 @@ Generates live logs using TestNG listener
 ```
 
 ---
-Thanks for using testng-live-logs!
+### Report Preview:
+
+<img src="/TestNGLiveLogs.jpg" alt="LiveLogs">
+
+
+---
+### Thanks for using testng-live-logs!
 
  - What is your opinion of this report?
  - What’s the feature I should add?
@@ -34,7 +40,7 @@ If you have any questions / suggestions / comments on the report, please feel fr
 
 ---
 
-*Credits:*
+### Credits:
 
 1. TestNG [link](https://testng.org/doc/index.html)
 2. Stackoverflow [link](http://stackoverflow.com)
@@ -47,7 +53,7 @@ Note: This report uses above mentioned open-source libraries in report.
 
 ---
 
-*Special Thanks To:*
+### Special Thanks To:
 
 1. [Krishnan Mahadevan](https://www.linkedin.com/in/krmahadevan/) [Automation GURU]
 
