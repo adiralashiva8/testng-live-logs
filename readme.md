@@ -5,11 +5,11 @@ Generates live logs using TestNG listener
 ---
 ### How to use
 
- - Dowload `testng-live-logs-0.1.jar` from [here]()
+ - Dowload `testng-live-logs-0.1.jar` from [here](https://github.com/adiralashiva8/testng-live-logs/releases/download/v0.1/testng-live-logs-0.1.jar)
  - Include `testng-live-logs-0.1.jar` in your project
   > - Open Eclipse → Right Click on the project
    > - Go to Property → Build Path → Configure Build Path
-   > - Add the `testng-metrics.jar` in the libraries using Add External Jar button
+   > - Add the `testng-live-logs-0.1.jar` in the libraries using Add External Jar button
  - Execute test cases
  - Live Logs report will be launched in webbrowser
  - It will update for every 100s
